@@ -10,7 +10,7 @@ Live Demo
 
 Launch PropScope HYD →
 
-url
+https://propscope-hyd-njwfzgznqguutiqdmpptyg.streamlit.app
 
 What It Does
 
